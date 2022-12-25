@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\bin\Debug\net6.0\Task56.exe
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\bin\Debug\net6.0\Task56.deps.json
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\bin\Debug\net6.0\Task56.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\bin\Debug\net6.0\Task56.pdb
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\Task56.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\refint\Task56.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\Task56.pdb
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ\DZ_23_12_2022\Task56\obj\Debug\net6.0\ref\Task56.dll
