@@ -65,9 +65,15 @@ int[,] SumString(int[,] matrix)
 }
 
 Console.Clear();
-Console.WriteLine("Введите размер массива: ");
+Console.WriteLine("Введите размер прямоугольного массива: ");
 int[] size = Console.ReadLine().Split(" ").Select(x=>int.Parse(x)).ToArray();
 int[,] matrix = new int[size[0], size[1]];
+while(size[0] == size[1])
+{
+    Console.WriteLine("Вы ошиблись\nВведите размер матрицы:");
+    size = Console.ReadLine().Split(" ").Select(x=>int.Parse(x)).ToArray();
+}
+
 
 Console.WriteLine("Исходный массив: ");
 InputMatrix(matrix);
